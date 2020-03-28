@@ -143,16 +143,71 @@ Fizemos as devidas apresentações, perguntei um pouco sobre ele, a vida dele na
 
 Foi difícil esconder minha alegria (de novo).
 
-Falei que a gente já tinha uma pessoa em mente e que poderia deixar com a gente. Ele parecia até mais aliviado.
+Falei que a gente já tinha uma pessoa em mente e que poderia deixar com a gente. Ele parecia até mais aliviado. Até disse que não dormiria nem casa mais (meu sono agradeceu).
 
 Enfim, mandei mensagem para o rapaz da casa no qual havia deixado já avisado e ele aceitou morar com a gente.
 
 Agora era só questão de tempo.
 
-### Primeira semana e organização
+Peguei o número de celular dele para facilitar a comunicação, peguei minhas coisas e fui pra aula.
+
+### Semanas seguintes e a dinâmica da casa
 
 Na segunda noite, reparamos que o dito cujo não voltou pra casa. Será que morreu? pensei.
 
 Tudo bem, seguimos nossas vidas.
 
 Depois de olhar o studio com mais calma e energia, eu e meus amigos começamos e encontrar umas coisas bem tensas, como muita poeira de baixo da cama junto com caixas de pizza, como se aquilo nunca tivesse sido limpo na vida.
+
+Na hora sentimos um certo nojo e decidimos que iríamos limpar aquele studio de cabo a rabo.
+
+Já que o rapaz não dormiria mais em casa, separamos as coisas dele (as que ele não levou) em uma sacola começamos a colocar a casa de cabeça pra baixo.
+
+Limpamos os armários, jogamos um monte de coisa velha e vencida fora, deixamos algumas coisas que estavam boas ainda. Foi limpando tudo, que eu comecei a entender o possível motivo da menina o namorado e o outro rapaz ter saído da casa.
+
+Tudo dava a entender que os hábitos de higiene do sujeito que ficou eram BEM questionáveis.
+
+---
+
+Ficamos a semana inteira esperando ele buscar suas coisas em casa e trazer a chave.
+
+Todos os dias eu mandava mensagem perguntando quando ele vinha e a resposta era sempre: "quando der eu apareço". O que me incomodava demais.
+
+Eu sou um tanto quanto sistemático, gosto das coisas certas e alinhadas. Já o rapaz, o total oposto.
+
+Por fim, o nosso novo colega de quarto se mudou para o studio.
+
+No dia seguinte, mandei mensagem falando pra ele me passar o endereço do trabalho dele que eu levaria o depósito e pegaria (finalmente) a chave dele.
+
+Chegando lá, o cumprimentei e fizemos as trocas. Perguntei quando ele ia buscar o restante das coisas e a resposta foi um grande... "Não sei ainda...quando tiver um tempinho sobrando".
+
+Poxa, sério? Voltando pra casa eu até cheguei a cogitar se ele tinha me dado a chave certa ou se tinha feito uma cópia dela (ainda estava noiado).
+
+Na semana seguinte, mandei uma mensagem falando: "to deixando a sacola com as suas coisas em cima da máquina de lavar na área comum, se quiser vir buscar, estará ali".
+
+E ele foi... rasgou o saco em que seus pertences se encontravam, pegou só o que queria e deixou o resto lá, jogado 😑. O verdadeiro exemplo de ser humano, só que o contrário.
+
+Por fim, o quarteto estava montado.
+
+Como boa sociedade, tratamos de definir regras de boa convivência:
+
+- Depois das 00:00, todas luzes apagadas e sem barulho nenhum;
+- Cada final de semana, uma dupla fica responsável pela limpeza, um a área comum e outro o banheiro;
+- Comidas são individuais a menos que esteja acordado entre todo mundo que tal coisa pode ser usado por todos da casa;
+- Sem festas e trazer gente aqui. O studio não dava conta nem da gente, quem dirá de mais pessoas.
+- Fones de ouvido para ver videos, música, etc.
+- Se chegar de madrugada, tentar fazer o menos barulho possível.
+
+Todos concordaram e seguimos morando juntos por mais alguns meses.
+
+Foi uma experiência bem divertida e que me ensinou muita coisa, afinal, era a primeira vez que eu morava com pessoas não eram minha mãe e irmã.
+
+Saímos algumas vezes juntos, trocamos muita ideia e nos conhecemos bastante.
+
+Rolou apoio um do outro em métodos de estudo, troca de figurinhas sobre a vida e até aprendi algumas coisas o artista (o último integrante) sobre desenho e o pensamento artístico.
+
+Viniboy, Tauã e Seu Madruga (Victor), obrigado pelo tempo que passamos juntos e pelos aprendizados. Com certeza me tornei uma pessoa bem melhor e espero ter contribuído pra vida e crescimento de vocês também! ;)
+
+---
+
+## Procurando emprego
