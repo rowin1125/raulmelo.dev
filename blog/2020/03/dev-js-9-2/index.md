@@ -101,6 +101,58 @@ Perguntei se ele tinha interesse, caso a vaga abrisse mesmo, ele disse que 100% 
 
 Fui ao centro, com 750 euros em dinheiro vivo (pensa num cagaço de ser roubado ou perder) e peguei as chaves do ap. Agora finalmente poderíamos nos mudar e ficar com paz no coração.
 
-### Mudança
+### Mudança e primeira noite
 
-No mesmo dia, procurei nos grupos brasileiros o número de alguém que poderia
+No mesmo dia, procurei nos grupos brasileiros o número de alguém que pudesse fazer a nossa mudança por um preço camarada. Mandei mensagem para alguns e encontramos um rapaz que tinha um carro SUV e faria nossa mudança por 40 euros no mesmo dia.
+
+Corremos para fazer nossa mala, nos despedimos das pessoas e no horário combinado, o rapaz foi nos buscar.
+
+Ao chegarmos na nova casa, o outro morado não estava e quase tudo estava vazio.
+
+Comecei a olhar ao redor, nos armários e comecei a reparar que a casa estava bem... suja.
+
+Conversei com os meus roommates (companheiros de quarto) que no dia seguinte, faríamos uma faxina.
+
+### Problemas com o morador
+
+Primeira noite na casa. Malas por desfazer, cansaço físico mas aliviado emocionalmente.
+
+Já de banho tomado e deitado em minha cama, apesar de estar leve, sempre me vinha o mesmo pensamento:
+
+> e esse outro cara, hein?
+
+Caí no sono.
+
+Por volta de umas 2 ou 3 da manhã, já no meu sono profundo, ouço alguém abrindo. Logo acordo, sem entender o que está acontecendo e aos poucos vou retomando a minha consciência: "O cara, é claro".
+
+Fazendo todo o barulho possível, o bom rapaz decidiu comer algo.
+
+Enquanto ele preparava sua comida, eu conseguia apenas pensar:
+
+> que inferno... sério mesmo que vai ser todo dia isso?
+
+Assim que ele deitou na cama, fiquei mais tranquilo e comecei a voltar a dormir. Estava tudo indo muito bem até que... o diabo começa a roncar.
+
+Não era apenas um ronquinho qualquer, ela uma moto-serra bem em baixo de mim.
+
+Fiquei uns 15 minutos rolando na cama sem conseguir voltar a dormir até que eu me rendo, inverto a minha posição na cama para tirar meu ouvido do ronco dele, coloco meu fone de ouvido, um podcast específico para insônia e volto a dormir.
+
+No dia seguinte, começamos a levantar para comer, nos arrumarmos para ir pra escola e talz até que ele acorda de um sono muito profundo.
+
+Fizemos as devidas apresentações, perguntei um pouco sobre ele, a vida dele na Irlanda, até que ele tocou no ponto de que estaria se mudando dali uma semana mais ou menos e perguntou se a gente queria trazer alguém ou ele precisava anunciar.
+
+Foi difícil esconder minha alegria (de novo).
+
+Falei que a gente já tinha uma pessoa em mente e que poderia deixar com a gente. Ele parecia até mais aliviado.
+
+Enfim, mandei mensagem para o rapaz da casa no qual havia deixado já avisado e ele aceitou morar com a gente.
+
+Agora era só questão de tempo.
+
+### Primeira semana e organização
+
+Na segunda noite, reparamos que o dito cujo não voltou pra casa. Será que morreu? pensei.
+
+Tudo bem, seguimos nossas vidas.
+
+Depois de olhar o studio com mais calma e energia, eu e meus amigos começamos e encontrar umas coisas bem tensas, como muita poeira de baixo da cama junto com caixas de pizza, como se aquilo nunca tivesse sido limpo na vida.
