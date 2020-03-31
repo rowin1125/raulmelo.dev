@@ -211,3 +211,36 @@ Viniboy, Tauã e Seu Madruga (Victor), obrigado pelo tempo que passamos juntos e
 ---
 
 ## Procurando emprego
+
+Outra coisa que tira muito a paz do intercambista é a busca por uma fonte de renda. Assim como ver os seus dias na moradia provisória, ver seu dinheiro acabando é como olhar para uma ampulheta.
+
+Até então eu nunca tinha trabalhado como dev. Meu emprego no Brasil era de técnico de suporte técnico. Tudo que eu tinha de experiência era todos os projetos que eu já havia feito para treinar minhas habilidades (que não eram poucos) e um freelance que havia feito de uma página HTML com um formulário para consultar o bônus de um cartão de presente.
+
+Mesmo assim, eu estudava o máximo que conseguia e isso me dava a sensação de eu era capaz de assumir um emprego de dev, nem que fosse junior.
+
+Então, eu tinha duas possibilidades em mente:
+
+1. Conseguir um emprego de bartender, garçom ou similares.
+1. Conseguir um emprego como desenvolvedor;
+
+A primeira opção não parecia tão complicada assim. No Brasil, passei 2 anos da minha vida trabalhando de barman, bartender e qualquer bico relacionado a serviços assim. O maior problema seria a concorrência, afinal, todo mundo que vai pra lá procura esse tipo de emprego e o idioma, que na época ainda estava bem capenga.
+
+Já na segunda opção (onde eu estava concentrando minhas energias) tinha alguns poréns. Além da minha falta de experiência comprovada, eu estava com visto Stamp 2, ou seja, estudante. Como já comentei anteriormente, legalmente, poderia trabalhar apenas 20 horas e estudar 20 horas semanalmente.
+
+Então eu te pergunto: Qual empresa que quer um desenvolvedor meio período?
+
+E isso leva para um outro ponto no qual explicarei mais adiante que é: "patrocínio de visto".
+
+### Preparando os CVs
+
+Eu estava jogando pra duas opções.
+
+Aquele coach mais safado diria que "você precisa concentrar suas energias somente no que você quer... bla bla bla", mas a realidade era que precisava de dinheiro pra comer e pra continuar fazendo o intercâmbio.
+
+Criei dois currículos, um totalmente digital, focado em todas as experiências que havia feito até então, minha gradução, etc. e o outro totalmente focado para serviços gerais.
+
+A agência que fiz o intercâmbio, na época oferecia um serviço de análise de currículo e óbvio que eu agendei meu horário para dar uma melhorada naquilo.
+
+No dia da minha consulta, a mulher responsável (na qual estava em contato direto com várias empresas na Irlanda), me ajudou a organizar melhor as informações que ali estavam, corrigiu erros gramaticais de inglês e, no caso do CV pra bartender, até deu uma aumentada pra ver se me destacava ainda mais.
+
+Foram dicas valiosas no fim das contas.
