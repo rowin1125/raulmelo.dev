@@ -233,14 +233,38 @@ E isso leva para um outro ponto no qual explicarei mais adiante que é: "patroc�
 
 ### Preparando os CVs
 
-Eu estava jogando pra duas opções.
+Eu estava jogando para as duas opções.
 
-Aquele coach mais safado diria que "você precisa concentrar suas energias somente no que você quer... bla bla bla", mas a realidade era que precisava de dinheiro pra comer e pra continuar fazendo o intercâmbio.
+Aquele coach mais safado diria que "você precisa concentrar suas energias somente no que você quer... bla bla bla", mas a realidade era que precisava de dinheiro pra comer e pra continuar fazendo o intercâmbio, mas também queria tentar a chance de um emprego de desenvolvedor e mudar minha vida pra valer.
 
-Criei dois currículos, um totalmente digital, focado em todas as experiências que havia feito até então, minha gradução, etc. e o outro totalmente focado para serviços gerais.
+Então, criei dois currículos: um para a área de TI, totalmente digital e focado em todas as experiências que havia feito até então, minha graduação, etc. e o outro totalmente focado para serviços gerais focado em todas as minhas experiências com eventos.
 
-A agência que fiz o intercâmbio, na época oferecia um serviço de análise de currículo e óbvio que eu agendei meu horário para dar uma melhorada naquilo.
+A agência que fiz o intercâmbio, na época, oferecia um serviço de análise de currículo e óbvio que eu agendei meu horário para dar uma melhorada naquilo.
 
-No dia da minha consulta, a mulher responsável (na qual estava em contato direto com várias empresas na Irlanda), me ajudou a organizar melhor as informações que ali estavam, corrigiu erros gramaticais de inglês e, no caso do CV pra bartender, até deu uma aumentada pra ver se me destacava ainda mais.
+No dia da minha consulta, a mulher responsável (na qual estava em contato direto com várias empresas na Irlanda), me ajudou a melhor organizar as informações que ali estavam, corrigiu erros gramaticais de inglês e, no caso do CV pra bartender, até deu uma aumentada pra ver se me destacava ainda mais.
 
-Foram dicas valiosas no fim das contas.
+Sai de lá obstinado a passar meu CV de dev para várias empresas e o de barman para todos os sites de serviços dessa maneira e também entregar fisicamente, porém, não foi muito bem isso que aconteceu.
+
+O que eu fiz foi focar o máximo pra conseguir um emprego de desenvolvedor e fui deixando de lado o barman... e bem, isso teve um preço.
+
+Com o CV de dev atualizado, atualizei meu perfil do linkedIn, criei um site para ter uma versão online e de fácil acesso do meu CV, me cadastrei em vários sites de vagas como o [Indeed](https://ie.indeed.com/), o [Monster](https://www.monster.com/) e comecei a aplicar para algumas vagas.
+
+Uma das coisas que me pegou bastante, é que na Irlanda, quando você aplica para uma vaga, além do seu currículo, geralmente você também precisa encaminhar uma "cover letter", ou no bom português, uma carta de apresentação.
+
+Apesar de gostar de escrever, eu sempre fui péssimo em escrever esse tipo de coisa pelo simples motivo de sempre achar que nada do que eu fosse escrever ali, seria de coração.
+
+Em linhas gerais, você precisa, em poucos parágrafos, se apresentar, falar sobre sua motivação para aplicar para aquela vaga e naquela empresa, porque você seria uma boa opção. É basicamente uma filtragem das pessoas que conseguem ou não expressar suas ideias e ser objetivas.
+
+Mas sendo bem sincero, poucas vezes na vida eu apliquei para alguma vaga em uma empresa que eu tivesse o sonho de trabalhar. No geral, eu preciso de um emprego para pagar minhas contas, que me proporcione o mínimo de propósito na vida e que me dê espaço para tocar meus projetos em paralelo (que eu não tenha que trabalhar 12 horas por dia). Em qual empresa é, sempre foi indiferente.
+
+### Primeiras entrevistas de TI
+
+Logo, comecei a receber as primeiras ligações de recrutadores e isso foi uma das coisas que eu mais estranhei pra ser sincero.
+
+Antes de querer ser dev ou se quer pensar em TI, eu trabalhar como auxiliar administrativo ou de qualquer coisa que precisasse com o mínimo de traquejo social e de planilhas no Excel.
+
+Eu nunca recebi ligações de pessoas dizendo que acharam meu currículo e tinham uma vaga que pudesse me interessar. Então, eu comecei a ficar super empolgado com isso.
+
+Quando atendi a primeira ligação, fiquei bem tenso. Achei que não fosse dar conta de falar inglês, principalmente de expressar tudo que eu queria dizer em uma lingua que não era a materna. Mas pra minha surpresa, eu até que fui bem.
+
+Consegui explicar o que eu fazia para o recrutador.....
