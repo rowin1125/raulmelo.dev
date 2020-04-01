@@ -267,4 +267,65 @@ Eu nunca recebi ligações de pessoas dizendo que acharam meu currículo e tinha
 
 Quando atendi a primeira ligação, fiquei bem tenso. Achei que não fosse dar conta de falar inglês, principalmente de expressar tudo que eu queria dizer em uma lingua que não era a materna. Mas pra minha surpresa, eu até que fui bem.
 
-Consegui explicar o que eu fazia para o recrutador.....
+Consegui explicar o que eu fazia para o recrutador, ele pareceu empolgado e então me fez uma pergunta:
+
+> Qual a sua situação aqui na Irlanda?
+
+Logo respondi o anteriormente expliquei, que estava com visto de estudante e poderia trabalhar legalmente apenas meio período, porém, estava aberto a deixar os estudos se surgisse a oportunidade de um visto de trabalho.
+
+E o que eu ouvi foi:
+
+> Ah, que pena... meu cliente infelizmente não está pratrocinando vistos no momento. Bom, vou deixar essa observação no seu perfil aqui e se surgir novas oportunidades eu te ligo.
+
+Confesso que foi um banho de agua fria. Eu jurava que estava indo bem.
+
+Desliguei o telefone, fiquei uns minutos reflexivos para absorver o que tinha acontecido e logo pensei: É a vida, segue o baile.
+
+### Mais entrevistas e visto
+
+Mais e mais eu aplicava para vagas e comecei a notar que por algum motivo, não estava sendo efetivo, pois, tinha pouco ou quase nenhum feedback do processo.
+
+Em contra partida recebia várias ligações de recrutadores e sempre com o mesmo final da primeira:
+
+> "Infelizmente meu cliente não está aberto para patrocinar novos vistos"
+
+Ao passo que comecei a conversar com pessoas e ver quem tinha conseguido emprego na área, eu comecei a entender o que estava acontecendo.
+
+Quando uma empresa patrocina seu visto, ela precisa mandar um documento pro governo falando: "Olha, eu to procurando funcionário com esse perfil, par essa profissão, porém, não encontro no país. Encontrei uma pessoa que atende minhas necessidades e preciso de um visto pra ela". O governo por sua vez recebe essa carta, analisa e da o OK ou não para a empresa.
+
+Com o OK do governo, ela paga algumas taxas e segue em frente no processo.
+
+Depois de finalizado, a empresa passa a "ser responsável" pela pessoa. Ou seja, legalmente, existe um vínculo entre a pessoa e a empresa.
+
+Tanto isso é verdade, que nesses casos, caso você queira trabalhar em outra empresa, esta precisa fazer um comunicado ao governo dizendo: "Olha, fulano está trabalhando aqui com a gente agora, ta?" e dependendo do seu visto, até aplicar de novo.
+
+Depois de entender isso, começou a cair minha ficha:
+
+<big-quote>"Ninguém quer bancar meu visto porque eu tenho pouca experiência comprovada..."</big-quote>
+
+O que me empurrou direto pro dilema do profissional junior:
+
+```txt
+Não consegue emprego porque não tem experiência
+Não tem experiência porque não consegue emprego
+```
+
+E acho que nem preciso dizer o quanto minha síndrome do impostor começou a bater forte né?
+
+> "A síndrome do impostor, fenômeno do impostor ou síndrome da fraude, é um fenômeno pelo qual pessoas capacitadas sofrem de uma inferioridade ilusória, achando que não são tão capacitados assim e subestimando as próprias habilidades, chegando a acreditar que outros indivíduos menos capazes também são tão ou mais capazes do que eles. [...]" - [Fonte Wikipedia](https://pt.wikipedia.org/wiki/S%C3%ADndrome_do_impostor)
+
+Por fim, continuei fazendo meus projetos pessoais, cursos na alura para aprimorar minhas habilidades mais e mais. Mas era hora de cair na real.
+
+### Caindo na real
+
+Já estava na Ilha há 2 meses. Ao olhar meu extrato bancário, percebi que meu dinheiro estava pela metade já. Desespero.
+
+Apesar de querer muito, não conseguia meu tão sonhado emprego de desenvolvedor.
+
+Dinheiro no fim. Desespero.
+
+Minha namorada (Camila), me ligou certo dia para saber como estava aqueles dias (ela estava há 1 mês de ir para a Irlanda também). Contei a ela sobre o que me angustiava e assim que terminei, veio um puxão de orelha:
+
+> "Olha, tudo bem você querer conseguir emprego de dev, mas você precisa comer, pagar aluguél. Pode tratar de arrumar qualquer emprego e quando estiver com trabalho fixo, você continua sua jornada pelo emprego dos sonhos."
+
+....
