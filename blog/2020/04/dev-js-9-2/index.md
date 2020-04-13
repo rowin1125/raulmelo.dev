@@ -1,7 +1,7 @@
 ---
 title: 'Desenvolvedor JavaScript — do Brasil à Europa'
-subtitle: 'Vida na Irlanda: Dia-a-dia e em busca de um emprego'
-date: '2020-03-30'
+subtitle: 'Vida na Irlanda: Procurando moradia'
+date: '2020-04-01'
 image: assets/featured-img.jpeg
 description: ''
 categories:
@@ -12,10 +12,8 @@ categories:
 series:
   id: dev-js
   index: 11
-  copy: Ato 9 2/3
+  copy: Ato 9 2/4
 ---
-
-s
 
 <!-- TODO:Escrever tudo o que eu já havia escrito -->
 
@@ -33,17 +31,19 @@ bla bla bla
 
 No dia seguinte, acordamos bem cedo, tomamos café e partimos para a entrevista da casa.
 
-Ao olhar no mapa a localização, pude notar que não era tão longe do centro (onde ficam a maioria das escolas) e também era ao lado de um dos maiores parques da Irlanda inteira, o Phoenix Park.
+Ao olhar no mapa a localização, pude notar que não era tão longe do centro (onde ficam a maioria das escolas) e também era ao lado de um dos maiores parques da Irlanda, o Phoenix Park.
+
+<!-- TODO: Add phoenix park image -->
 
 Ainda me sentia confiante em que ia dar certo de pegar as 3 camas na casa.
 
 Ao chegar no local, fomos recebidos pela anunciante das vagas.
 
-Diferente do apartamento que havia ido na semana seguinte, esse studio era bem... direto ao ponto.
+Diferente do apartamento que havia ido na semana anterior, esse studio era bem... direto ao ponto.
 
 Um quadrado de uns 15x15 onde ficavam duas beliches, uma mesa "de jantar", cozinha, alguns armários improvisados e uma porta que dava para um banheiro bem pequeno, mais ou menos assim:
 
-![Esboço do studio](./assets/home.jpg)
+![Esboço do studio](./assets/house.png)
 
 A primeira coisa que me veio a cabeça e eu tive que perguntar era:
 
@@ -208,124 +208,4 @@ Rolou apoio um do outro em métodos de estudo, troca de figurinhas sobre a vida 
 
 Viniboy, Tauã e Seu Madruga (Victor), obrigado pelo tempo que passamos juntos e pelos aprendizados. Com certeza me tornei uma pessoa bem melhor e espero ter contribuído pra vida e crescimento de vocês também! ;)
 
----
-
-## Procurando emprego
-
-Outra coisa que tira muito a paz do intercambista é a busca por uma fonte de renda. Assim como ver os seus dias na moradia provisória, ver seu dinheiro acabando é como olhar para uma ampulheta.
-
-Até então eu nunca tinha trabalhado como dev. Meu emprego no Brasil era de técnico de suporte técnico. Tudo que eu tinha de experiência era todos os projetos que eu já havia feito para treinar minhas habilidades (que não eram poucos) e um freelance que havia feito de uma página HTML com um formulário para consultar o bônus de um cartão de presente.
-
-Mesmo assim, eu estudava o máximo que conseguia e isso me dava a sensação de eu era capaz de assumir um emprego de dev, nem que fosse junior.
-
-Então, eu tinha duas possibilidades em mente:
-
-1. Conseguir um emprego de bartender, garçom ou similares.
-1. Conseguir um emprego como desenvolvedor;
-
-A primeira opção não parecia tão complicada assim. No Brasil, passei 2 anos da minha vida trabalhando de barman, bartender e qualquer bico relacionado a serviços assim. O maior problema seria a concorrência, afinal, todo mundo que vai pra lá procura esse tipo de emprego e o idioma, que na época ainda estava bem capenga.
-
-Já na segunda opção (onde eu estava concentrando minhas energias) tinha alguns poréns. Além da minha falta de experiência comprovada, eu estava com visto Stamp 2, ou seja, estudante. Como já comentei anteriormente, legalmente, poderia trabalhar apenas 20 horas e estudar 20 horas semanalmente.
-
-Então eu te pergunto: Qual empresa que quer um desenvolvedor meio período?
-
-E isso leva para um outro ponto no qual explicarei mais adiante que é: "patrocínio de visto".
-
-### Preparando os CVs
-
-Eu estava jogando para as duas opções.
-
-Aquele coach mais safado diria que "você precisa concentrar suas energias somente no que você quer... bla bla bla", mas a realidade era que precisava de dinheiro pra comer e pra continuar fazendo o intercâmbio, mas também queria tentar a chance de um emprego de desenvolvedor e mudar minha vida pra valer.
-
-Então, criei dois currículos: um para a área de TI, totalmente digital e focado em todas as experiências que havia feito até então, minha graduação, etc. e o outro totalmente focado para serviços gerais focado em todas as minhas experiências com eventos.
-
-A agência que fiz o intercâmbio, na época, oferecia um serviço de análise de currículo e óbvio que eu agendei meu horário para dar uma melhorada naquilo.
-
-No dia da minha consulta, a mulher responsável (na qual estava em contato direto com várias empresas na Irlanda), me ajudou a melhor organizar as informações que ali estavam, corrigiu erros gramaticais de inglês e, no caso do CV pra bartender, até deu uma aumentada pra ver se me destacava ainda mais.
-
-Sai de lá obstinado a passar meu CV de dev para várias empresas e o de barman para todos os sites de serviços dessa maneira e também entregar fisicamente, porém, não foi muito bem isso que aconteceu.
-
-O que eu fiz foi focar o máximo pra conseguir um emprego de desenvolvedor e fui deixando de lado o barman... e bem, isso teve um preço.
-
-Com o CV de dev atualizado, atualizei meu perfil do linkedIn, criei um site para ter uma versão online e de fácil acesso do meu CV, me cadastrei em vários sites de vagas como o [Indeed](https://ie.indeed.com/), o [Monster](https://www.monster.com/) e comecei a aplicar para algumas vagas.
-
-Uma das coisas que me pegou bastante, é que na Irlanda, quando você aplica para uma vaga, além do seu currículo, geralmente você também precisa encaminhar uma "cover letter", ou no bom português, uma carta de apresentação.
-
-Apesar de gostar de escrever, eu sempre fui péssimo em escrever esse tipo de coisa pelo simples motivo de sempre achar que nada do que eu fosse escrever ali, seria de coração.
-
-Em linhas gerais, você precisa, em poucos parágrafos, se apresentar, falar sobre sua motivação para aplicar para aquela vaga e naquela empresa, porque você seria uma boa opção. É basicamente uma filtragem das pessoas que conseguem ou não expressar suas ideias e ser objetivas.
-
-Mas sendo bem sincero, poucas vezes na vida eu apliquei para alguma vaga em uma empresa que eu tivesse o sonho de trabalhar. No geral, eu preciso de um emprego para pagar minhas contas, que me proporcione o mínimo de propósito na vida e que me dê espaço para tocar meus projetos em paralelo (que eu não tenha que trabalhar 12 horas por dia). Em qual empresa é, sempre foi indiferente.
-
-### Primeiras entrevistas de TI
-
-Logo, comecei a receber as primeiras ligações de recrutadores e isso foi uma das coisas que eu mais estranhei pra ser sincero.
-
-Antes de querer ser dev ou se quer pensar em TI, eu trabalhar como auxiliar administrativo ou de qualquer coisa que precisasse com o mínimo de traquejo social e de planilhas no Excel.
-
-Eu nunca recebi ligações de pessoas dizendo que acharam meu currículo e tinham uma vaga que pudesse me interessar. Então, eu comecei a ficar super empolgado com isso.
-
-Quando atendi a primeira ligação, fiquei bem tenso. Achei que não fosse dar conta de falar inglês, principalmente de expressar tudo que eu queria dizer em uma lingua que não era a materna. Mas pra minha surpresa, eu até que fui bem.
-
-Consegui explicar o que eu fazia para o recrutador, ele pareceu empolgado e então me fez uma pergunta:
-
-> Qual a sua situação aqui na Irlanda?
-
-Logo respondi o anteriormente expliquei, que estava com visto de estudante e poderia trabalhar legalmente apenas meio período, porém, estava aberto a deixar os estudos se surgisse a oportunidade de um visto de trabalho.
-
-E o que eu ouvi foi:
-
-> Ah, que pena... meu cliente infelizmente não está pratrocinando vistos no momento. Bom, vou deixar essa observação no seu perfil aqui e se surgir novas oportunidades eu te ligo.
-
-Confesso que foi um banho de agua fria. Eu jurava que estava indo bem.
-
-Desliguei o telefone, fiquei uns minutos reflexivos para absorver o que tinha acontecido e logo pensei: É a vida, segue o baile.
-
-### Mais entrevistas e visto
-
-Mais e mais eu aplicava para vagas e comecei a notar que por algum motivo, não estava sendo efetivo, pois, tinha pouco ou quase nenhum feedback do processo.
-
-Em contra partida recebia várias ligações de recrutadores e sempre com o mesmo final da primeira:
-
-> "Infelizmente meu cliente não está aberto para patrocinar novos vistos"
-
-Ao passo que comecei a conversar com pessoas e ver quem tinha conseguido emprego na área, eu comecei a entender o que estava acontecendo.
-
-Quando uma empresa patrocina seu visto, ela precisa mandar um documento pro governo falando: "Olha, eu to procurando funcionário com esse perfil, par essa profissão, porém, não encontro no país. Encontrei uma pessoa que atende minhas necessidades e preciso de um visto pra ela". O governo por sua vez recebe essa carta, analisa e da o OK ou não para a empresa.
-
-Com o OK do governo, ela paga algumas taxas e segue em frente no processo.
-
-Depois de finalizado, a empresa passa a "ser responsável" pela pessoa. Ou seja, legalmente, existe um vínculo entre a pessoa e a empresa.
-
-Tanto isso é verdade, que nesses casos, caso você queira trabalhar em outra empresa, esta precisa fazer um comunicado ao governo dizendo: "Olha, fulano está trabalhando aqui com a gente agora, ta?" e dependendo do seu visto, até aplicar de novo.
-
-Depois de entender isso, começou a cair minha ficha:
-
-<big-quote>"Ninguém quer bancar meu visto porque eu tenho pouca experiência comprovada..."</big-quote>
-
-O que me empurrou direto pro dilema do profissional junior:
-
-```txt
-Não consegue emprego porque não tem experiência
-Não tem experiência porque não consegue emprego
-```
-
-E acho que nem preciso dizer o quanto minha síndrome do impostor começou a bater forte né?
-
-> "A síndrome do impostor, fenômeno do impostor ou síndrome da fraude, é um fenômeno pelo qual pessoas capacitadas sofrem de uma inferioridade ilusória, achando que não são tão capacitados assim e subestimando as próprias habilidades, chegando a acreditar que outros indivíduos menos capazes também são tão ou mais capazes do que eles. [...]" - [Fonte Wikipedia](https://pt.wikipedia.org/wiki/S%C3%ADndrome_do_impostor)
-
-Por fim, continuei fazendo meus projetos pessoais, cursos na alura para aprimorar minhas habilidades mais e mais. Mas era hora de cair na real.
-
-### Caindo na real
-
-Já estava na Ilha há 2 meses. Ao olhar meu extrato bancário, percebi que meu dinheiro estava pela metade já. Desespero.
-
-Apesar de querer muito, não conseguia meu tão sonhado emprego de desenvolvedor.
-
-Dinheiro no fim. Desespero.
-
-Minha namorada (Camila), me ligou certo dia para saber como estava aqueles dias (ela estava há 1 mês de ir para a Irlanda também). Contei a ela sobre o que me angustiava e assim que terminei, veio um puxão de orelha:
-
-> "Olha, tudo bem você querer conseguir emprego de dev, mas você precisa comer, pagar aluguél. Pode tratar de arrumar qualquer emprego e quando estiver com trabalho fixo, você continua sua jornada pelo emprego dos sonhos."
-
-....
+<!-- TODO: Write here about Camila -->
