@@ -284,20 +284,6 @@ No mês seguinte, a Camila desembarcava na Ilha, o que me trazia um conforto. É
 
 Um mês após sua chegada, decidimos procurar um quarto para moramos juntos, o famoso "quarto de casal".
 
-Esse processo foi chatinho até. Esses quartos geralmente são um pouco mais caros e tem casas que não aceitam casais por algúm motivo.
-
-Mas tínhamos tempo e um pouco de segurança. Ela, diferemente de mim, conseguiu um emprego logo no primeiro mês para trabalhar como babá e outros bicos de faxina, eu ainda no meu emprego na hamburgueria, tinhamos um teto (mesmo que não fosse o mesmo), ou seja, havia um conforto para não pegar qualquer coisa que aparacesse.
-
-No fim, ela encontrou um quarto no centro da cidade por 700 euros mensais (350 pra cada). Era um apartamento de 2 comodos, sala e cozinha. Nele, morava 1 casal de brasileiros (que anunciou a vaga) no maior quarto da casa, uma familia da Mongolia (um casal, uma criança e mãe do homem) e o outro quarto menor que era pra gente.
-
-A ideia pareceu um pouco maluca, afinal, seriam 8 pessoas em um apartamento, mas pelo valor e localização, parecia um bom negócio. E foi, apesar de alguns momentos de falta de comunicação entre nós brasileiros e a familia.
-
-Nos mudamos e foi lá que fiquei até o fim do intercâmbio.
-
-O bom de morar no centro é que você está perto de tudo que precisa. A minha escola ficava a 10 minutos de caminhada, minha academia a 7 e o trabalho a uns 15. Além de estar a 2 minutos a principal rua de bares de Dublin, o temple bar.
-
-Tanto o momento de ida e volta para escola e para o trabalho, eram momentos que me traziam uma certa paz. Eu andava, escutando meus podcasts preferidos, observando as pessoas, a sociedade, a dinâmica social.
-
 Tirando alguns passeios pontuais que fiz com amigos, com a Camila e os amigos dela, minha rotina consistia em:
 
 - Acordar;
