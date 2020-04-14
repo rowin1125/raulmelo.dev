@@ -17,7 +17,7 @@ series:
 
 Fala pessoal, tudo em cima?
 
-No post anterior eu fiz um geral sobre como foi minha chegada, impressões do curso e meu processo de estudos da língua inglêsa.
+No post anterior contei um pouco sobre como foi minha chegada, impressões do curso e meu processo de estudos da língua inglêsa.
 
 Hoje, vou contar pra vocês como foi a saga de encontrar um lugar pra morar em um país que passa por uma crise imobiliária bem severa.
 
@@ -25,7 +25,7 @@ Hoje, vou contar pra vocês como foi a saga de encontrar um lugar pra morar em u
 
 ## Acomodação
 
-Como comentei anteriormente, a agência que me levou para o intercâmbio também oferecia uma casa temporária para os alunos morarem até encontrar outro local.
+Como comentei anteriormente, a agência que me levou para o intercâmbio também oferecia uma casa temporária para os alunos morarem até encontrarem um lar definitivo.
 
 Como meu orçamento não estava tão bom e o aluguel desse tipo de casa geralmente tem um valor acima da média por conta dos serviços que são oferecidos, eu peguei apenas duas semanas de acomodação.
 
@@ -33,117 +33,145 @@ No dia seguinte a minha chegada na casa, ainda deitado na cama, o Raul que habit
 
 > "Você não vai se divertir, sair, aproveitar nada enquanto você não arrumar outro lugar pra ficar. Essa é a prioridade número um e você só vai pensar nisso."
 
-E bem, foi assim que eu lidei com esse processo do começo ao fim, afinal, meu prazo era de apenas 2 semanas.
+E bem, foi assim que eu lidei com esse processo do começo ao fim, afinal, eu só tinha 14 dias para isso.
 
-Tentei conversar com o pessoal da agência para ver qual a possibilidade de estender essas duas semanas e bem, foram bem diretos:
+Tentei conversar com o pessoal da agência para ver qual a possibilidade de estender essas duas semanas caso eu não encontrasse outro lugar, e bem, me disseram:
 
-> "Bem baixa, pois temos outros estudantes chegando no dia seguinte a saída de alguém".
+> "Vish, isso é bem difícil. Temos estudantes chegando o tempo todo. Assim que alguém sai da casa, no dia seguinte entra outro que já pagou por isso."
 
-Ao ouvir isso, olhei pra dentro e o Raul interno me olhava com aquelas caras de quem diz: "Eu disse pra você, agora corre".
+Ao ouvir isso, pensei: "É... corre."
 
-## Estratégia
+---
 
-Para resolver esse problema, eu defini algumas estratégias que foram essenciais no resultado final
+## Estratégias
 
-### Ter onde buscar
+Para resolver esse problema, eu defini algumas estratégias que no fim se mostraram essenciais no resultado sucesso da missão (sim, já era uma missão). Foram elas:
 
-Ao contrário do Brasil (pelo menos no Estado de SP), onde entramos em contato com imobiliária e sinalizamos um apartamento/casa para morar, na Irlanda, como estudante, as coisas funcionam um pouco diferentes.
+### Ter onde procurar
 
-Você não tem dinheiro pra alugar uma casa e, mesmo que o tivesse, para a imobiliária, alugar algo para você é assumir um risco muito alto de você ir embora sem falar nada e ela ficar no prejuízo.
+Ao contrário do Brasil (pelo menos no Estado de SP, onde eu nasci), onde entramos em contato com imobiliária dizendo o que estamos procurando e o agente oferece uma lista de opções para você ir visitar e ver se gosta ou não, na Irlanda, ainda por cima como estudante, as coisas funcionam um pouco diferentes.
 
-Poderia também alugar direto com o dono, que tem um nome chique de "Land lord" (senhor da terra) ou "Land lady" (senhora da terra). Mas também, encontrar essas pessoas era sempre mais difícil.
+Vamos imaginar que você tivesse uma imobiliária no Brasil. Então, uma pessoa que está lá fazendo intercâmbio por apenas 6 meses entra em contato dizendo querer alugar uma casa. Você sabe que ele pode ir embora a qualquer momento se nem devolver a chave. Você alugaria algo pra esse perfil de pessoa?
 
-Logo, o que restou foi ir atrás de pessoas que moram em casas já alugadas e estava com uma cama sobrando na casa ou algo do tipo.
+Eu nem sei com é a lei nessa situação, mas só pela situação no geral, já coloca o estudante em um baixíssimo nível de credibilidade.
 
-Desde antes de ir de fato para Dublin, eu já fazia parte de alguns grupos de brasileiros no Facebook. O que eu fiz foi ao invés de estar apenas nos principais, entrar em TODOS os grupos, tanto de brasileiro quanto de gringos e ativar as notificações de todos eles para ser em tempo real, ou seja, se alguém postar algo, independente do que, pinga uma notificação.
+Você também pode alugar direto com o dono, que tem um nome chique de "Land lord" (senhor da terra) ou "Land lady" (senhora da terra). Mas também, a situação é quase a mesma e encontrar pessoas pessoas boas, dispostas a não passar o estudante pra trás (acredite, há muitas histórias não tão boas sobre casos de estudantes que alugam direto com o dono da casa) é bem difícil.
 
-No começo foi bem chato, porque eu ficava toda hora recebendo notificação de coisas aleatórias, mas também via bastante anúncio de quartos. A questão era só chegar primeiro.
+Assim, a opção que resta é ir atrás de pessoas que já moram em casas e conseguiram alugar, seja por uma sorte, seja porque elas tem contrato de trabalho ou visto permanente e tentar conseguir um quarto ou uma cama. E para isso, você precisa entrar nas comunidades locais.
+
+Ainda quando estava no Brasil, comecei a entrar em grupos de brasileiros no Facebook, apenas nos maiores para encontrar essas pessoas. E realmente, sempre tinham pessoas anunciando quarto de solteiro, quarto compartilhado, quarto de casal, etc.
+
+Mas eu decidi ir além nisso e entrar em TODOS os grupos existentes, tanto de brasileiro quanto de gringos. Além disso, ativei as notificações de cada um para ser em tempo real, ou seja, se alguém postar algo, independente do que, eu receberia um aviso de notificação.
+
+Confesso que no começo foi bem chato, pois eu sempre detestei (e ainda detesto) receber notificações de redes sociais, principalmente de coisas aleatórias. Porém, no meio daquela bagunça de postagem de pessoas reclamando da vida, contanto histórias tristes (às vezes umas felizes), aparecia anúncios de vagas em casas.
+
+E não tinha outra maneira. As primeiras pessoas a mandarem mensagem em um post, serão as primeiras escolhidas.
 
 ### Rotina
 
-Todos os dias, eu acordava, tomava meu café da manhã, ligava meu notebook, abria o Facebook, ficava algumas horas ali vendo as notificações da noite anterior, mandando mensagem para as pessoas e vendo novos posts.
+Todos os dias, eu acordava, tomava meu café da manhã, ligava meu notebook, abria o Facebook e ficava algumas horas ali vendo as notificações da noite anterior, mandando mensagem em posts feitos durante a noite e coisas que eu havia perdido e também bem atento para novos posts.
 
-Programa um pouco, assistia uns videos, almoçava e voltava pro computador pra ver se algo aparecia.
+Programava um pouco, assistia algum video no YouTube, almoçava e voltava pro Facebook pra ver se algo aparecia.
 
 ### Foco
 
-Como já estava no modo sobrevivência, eu só conseguia pensar nisso.
+Eu levei bem ao pé da letra o recado que meu eu interno mandou. Sentia como se tivesse ligado o modo sobrevivência. Era só o que conseguia pensar.
 
-Não sai no final de semana, não fui das festas e em bares quando as pessoas chamavam. Todo meu esforço estava concentrado em uma missão: "Arrumar um local pra ficar".
+Me chamaram pra ir em festa da agência, não foi. Me chamaram pra ir em um bar famoso de Dublin, não foi. Todo meu esforço estava concentrado em uma missão: "Arrumar um local pra ficar".
 
-Óbvio que essas pessoas que saiam para baladas e já estavam vivendo o intercâmbio, no fim, também conseguiram casa. Porém, essas situações na minha cabeça a maneira de enxergar o mundo tem um outro peso. Eu sempre fui assim e provavelmente sempre serei.
+É óbvio que as pessoas que saíram para baladas e já estavam vivendo o intercâmbio desde o dia 0, no fim, também conseguiram casa. Não estou dizendo que existe apenas um modo de se conseguir o que quer, porém, quando estou em situações como essa, mesmo que eu fosse pro pub, eu não aproveitaria, pois, constantemente, meu inconsciente ia mandar um recado: "Você poderia estar em casa, pronto pra responder aquela notificação".
+
+Assim, deixei para fazer essas coisas quando já tivesse algo certo.
 
 ### Paciência
 
-Depois de toda a estratégia "militar" montada, agora era questão de paciência e fazer o que precisava ser feito.
+Depois de toda a estratégia "militar" montada, agora era questão de paciência e fazer o que precisava ser feito. Mesmo sabendo disso, confesso que foi bem difícil.
 
-Em 3 dias eu finalmente consegui uma resposta de um rapaz que estava passando a vaga dele em um apê perto do centro da cidade.
+É complicado você ter um problema pra resolver, que não depende só de você, mas também, de pessoas anunciando e sorte de sua mensagem ser notada.
+
+---
 
 ## Primeira visita
 
-No dia seguinte à troca de mensagem, subi no ônibus e me dirigi para o apartamento do rapaz.
+Depois de 3 dias, finalmente consegui receber uma resposta de um brasileiro que estava passando sua vaga em um apartamento perto do centro da cidade.
 
-O fato de não conhecer a cidade, as dinâmicas sociais, onde estava, ir visitar a casa de pessoas estranhas me deixavam bem apreensivo. Mas precisava ser feito.
+Trocamos mensagens e combinamos uma visita no dia seguinte.
 
-Chegando lá, mandei mensagem pro sujeito, que demorou uns 15 minutos pra me responder de volta, me fazendo pensar que talvez tivesse sido um grande trouxa.
+Acordei logo cedo, bem antes do previsto. Me arrumei, tomei meu café, salvei o Google Maps offline da região, subi no ônibus e me parti para a visita.
 
-Ao me receber, nos apresentamos e fomos entrando em direção ao apartamento.
+Confesso que fiquei um pouco apreensivo indo visitar o apartamento de uma pessoa que nunca vi na vida, em um país tão distante do meu, com dinâmicas sociais completamente diferentes e em uma cidade desconhecida. Mas, aparentemente, eram assim que as coisas funcionavam por ali.
 
-Era um prédio bem estranho. Quanto mais você entrava no prédio e andava no corredor central, mais portas haviam, como se cada porta dividisse o prédio em pequenos blocos.
+Chegando no local, mandei mensagem para o rapaz, que demorou uns 15 minutos pra me responder de volta. Cheguei a pensar que eu tinha feito papel de trouxa e que havido ido lá atoa, até que ele me respondeu com um:
+
+> "Desculpa, estava mostrando o apartamento para outra pessoa."
+
+Ao me receber, nos apresentamos e estramos no prédio, que diga-se de passagem, era bem esquisito.
+
+Quanto mais a gente andava no corredor central, mais portas haviam, como se cada uma delas dividisse aqueles apartamentos em pequenos blocos.
 
 Eis que chegamos e no apartamento e... meu deus.
 
-Sabe nos desenhos antigos, tipo pica-pau, quando tinha um grupo de pessoas fumando no mesmo local e para aguém sair, uma porta era aberta?
+Eu tinha 100% de certeza que as pessoas ou estavam fumando algo, ou haviam fumado na noite anterior, porque foi como se tivesse aberto uma porta em uma sala cheia de fumaça.
 
-<!-- TODO: Gif aqui -->
+<gif src="https://media.giphy.com/media/3o6Mb5ZGLUIPgMozD2/giphy.gif" caption="Fumando dentro de casa"></gif>
 
-Era tipo isso...
+<!-- CONTINUE-HERE -->
 
-Na sala, estavam 5 brasileiros onde, 1 se encontrava deitado possivelmente dormindo, 3 nos sofas do lado e 1 sentado na cadeira ao lado de uma mesa redonda bem velha.
+Na sala, estavam 5 brasileiros onde, 1 se estava deitado (talvez dormindo), 3 nos sofas do lado e 1 sentado na cadeira ao lado de uma mesa redonda bem velha.
 
-No centro da sala, uma mesa cheia de tabaco para fazer o próprio cigarro (bem comum aqui fora), seda, maconha, um cinzeiro cheio de cigarros apagados e latas de energético e cerveja. O típico cenário pós-festa.... ou seria assim normalmente?
+No centro da sala, havia uma mesa cheia de tabaco, seda, maconha, um cinzeiro com bitucas de cigarro e latas de energético e cerveja. O típico cenário pós-festa.... ou seria assim normalmente? 🤔
 
-Para além do meu preconceito com o ambiente, todo mundo me cumprimentou e o "líder" da casa pediu para o rapaz terminar de me mostrar a casa e em seguida retornasse à sala.
+Todos me cumprimentaram e o que era aparentemente o "líder" da casa, pediu para o rapaz terminar de me mostrar a casa e em seguida que retornassemos à sala.
 
-A cozinha, apesar de organizada, era um verdadeiro caos. Todos os armários enferrujados, fogão de duas bocas, um microondas que parecia não funcionar.
+Fomos para a cozinha, bem colada com a sala. Apesar de estar levemente organizada, era um verdadeiro caos. Todos os armários enferrujados, fogão de duas bocas, um microondas que parecia não funcionar.
 
-O quarto que eu ficaria era bem... isso. 3 camas de solteiro, umas malas do lado e um guarda-roupe grande.
+Então seguimos para o quarto que eu ficaria e esse não tinha nada de mais. Eram três camas de solteiro, umas malas nos cantos do qarto e um guarda-roupe grande que era divido entre as três pessoas.
 
-Apenas um banheiro na casa que parecia um pouco mofado, mas em linhas gerais, organizado.
+Seguimos para o único banheiro da casa. Havia um pouco de mofo nas paredes, mas tirando isso, parecia limpo e em ordem.
 
-Ao retornar a sala, o "lider" pediu para que me sentasse, me ofereceu água e começou seu questionário.
+Então, retornarmos paraa sala, onde o líder foi bem gentil e me ofereceu água e me pediu para sentar para que começassemos a entrevista.
 
-Caso você não saiba, é preciso passar por entrevistas para alugar casa, onde os moradores, donos ou agente imobiliario irão avaliar os candidatos e aceitar quem eles veem com mais potencial de sucesso, dado a situação como um todo.
+Caso você não saiba, qualquer aluguel de casa/quarto/apartamento, independente se é com agente imoboliário, dono ou alguém da casa subalugando um espaço, é preciso passar por entrevistas, onde a pessoa que esta oferencendo o imóvel faz uma série de perguntas com várias pessoas e no fim, avaliam todos os candidatos e escolhem quem tem mais potencial de sucesso, seja financeiro, seja alguém que "combina" com a casa ou com a expectativa da pessoa. Como se fosse uma entrevista de emprego mesmo.
 
-Enfim, me perguntou da onde eu era no Brasil, há quanto tempo estava na Irlanda, se estava gostando, primeiras impressões da cidade e o que eu tinha achado da casa.
+Por fim, o líder me fez uma série de perguntas como de onde eu era no Brasil, há quanto tempo estava na Irlanda, se estava gostando, primeiras impressões da cidade e o que eu tinha achado da casa.
 
-Apesar deu ter detestado, eu realmente precisava de um local para ficar. Então, consegue imaginar que tentei dar uma escondida no que realmente tinha achado da casa e tentei dar a entender de que estava ok.
+Apesar deu ter detestado, eu realmente precisava de um local para ficar. Então, tentei esconder o que realmente tinha achado da casa e dar a entender de que gostaria de estar ali.
 
-Ele então continuou, me explicou quais eram as regras da casa e pra minha surpresa, haviam várias.
+Ele então continuou. Me explicou quais eram as regras da casa e pra minha surpresa, haviam várias. Entre elas:
 
-1. Toda semana, duas pessoas eram responsáveis pela limpeza da casa, como uma escala. Precisava limpar os banheiros, tirar o lixo, arrumar a cozinha e quartos
-1. A sala era um ambiente comum para todos e pelo fato da casa não ter varanda e sair do prédio era uma jornada, era permitido fumar somente na sala e com a porta fechada;
-1. pelo menos uma vez por semana eles davam uma festa no apartamento podendo ter pessoas de fora da casa;
-1. as comidas eram separadas, porém, havia um fundo da casa para comprar produtos de limpeza, papel higiênico e coisas comuns;
-1. eventualmente alguém levava outra pessoa pra transar na casa e como a sala era o único lugar, nesses dias a cozinha deveria ser evitada ao máximo.
+1. Toda semana, duas pessoas eram responsáveis pela limpeza da casa, como uma escala de trabalho. Limpar o banheiro, por o lixo para fora, arrumar a cozinha e quartos;
+2. A sala era um ambiente comum para todos os moradores e, pelo fato da casa não ter varanda e sair do prédio era uma jornada, era permitido fumar ali, mas sempre com a porta que dava pro corredor e quartos fechada;
+3. Pelo menos uma vez por semana eles davam uma festa no apartamento podendo ter convidados;
+4. As comidas eram individuais. As únicas coisas compartilhadas eram produtos de limpeza, papel higiênico e coisas para a casa em si. Para esses, era feito uma vaquinha toda semana;
+5. Quando combinado previamente, um morador poderia levar uma ficante pra transar na casa, e o único lugar permitido para o coito era a sala. Nesses dias, a cozinha deveria ser evitada ao máximo.
 
-Em dado momento eu meio que desliguei e parei de ouvir o que ele estava falando. Sabe em filme quando você o personagem começa a ouvir a pessoa que está falando lá no fundo e se perde pensando em outras coisas? Foi tipo isso.
+Sabe naqueles filmes onde o personagem está conversando com alguém e de repente a voz da outra pessoa começa a ficar distante, cada vez mais, e ele se perde nos próprios pensamentos? Foi tipo isso que aconteceu comigo.
 
-No fim, voltei e ele me perguntou o que eu tinha achado.
+Logo voltei do meu transe e ele me perguntou o que eu tinha achado de aquilo tudo que tinha dito.
 
-Falei que tinha gostado pelo fato de ter bastante regras, afinal, deixava as coisas uma terra sem lei onde todo mundo faz o que da na telha e que tinha já pensado como me adaptaria ali, utilizando a mesa da sala pra estudar e fazer minhas coisas e talz.
+Disse a ele que tinha gostado o fato de ter regras claras, afinal, quando não temos nenhuma, tudo é permitido, afinal, nada foi acordado ou proibido.
 
-No fim, tanto quanto ele sabiam que eu e a casa não tinham nada a ver, mas eu quis deixar essa porta aberta, mesmo que fosse pra depois procurar outro lugar.
+Também disse que já estava pensando como me adaptaria ali, utilizando a mesa da sala pra estudar e fazer minhas coisas, os momentos que ficaria no quarto, etc.
 
-Ele me disse que teria mais algumas visitas no mesmo dia e que até na manhã do dia seguinte pediria para o rapaz que anunciou a vaga mandar mensagem me falando se tinha rolado ou não.
+No fim, tanto eu quanto ele sabíamos que o Raul não tinha absolutamente nada a ver com aquele local, mesmo eu querendo fazer parecer que estava curtindo a experiência.
 
-Na volta pra casa, ainda no ônibus, encostei a cabeça no vidro tentando digerir o que exatamente tinha acontecido, o que eu faria verdadeiramente se fosse morar naquela casa. Como eu poderia estudar com a galera fumando e fazendo festa?
+Ao se despedir, ele me disse que havia gostado de mim e que teria mais algumas visitas no mesmo dia, mas no máximo na manhã do dia seguinte pediria para o rapaz que anunciou a vaga mandar mensagem me falando se tinha rolado ou não.
 
-A real é que a minha busca estava ainda longe de acabar.
+Na volta pra casa, ainda no ônibus, encostei a cabeça no vidro tentando digerir o que diabos tinha acabado de acontecer e principalmente o que eu faria caso fosse escolhido para naquela casa.
 
-Na manhã seguinte o rapaz havia me mandado mensagem falando que eles encontraram uma pessoa que se encaixa bem no perfil da casa.
+> Como eu poderia estudar com a galera fumando e fazendo festa?
 
-De volta à busca.
+Eu sai da casa com a sensação de que me lembrava algum seriado. Quase chegando em casa, lembrei que aquele lugar parecia com a casa do Jesse Pinkman no Breaking Bad.
+
+![Casa do Jesse depois de uma noite de festa.](./assets/jesse-pinkman-house.png)
+
+Na manhã seguinte, o rapaz havia me mandado mensagem falando que havia encontrarado uma pessoa que se encaixa bem no perfil da casa.
+
+Um alívio. De volta à busca.
+
+---
+
+<!-- CONTINUE HERE -->
 
 ## Sorte grande
 
