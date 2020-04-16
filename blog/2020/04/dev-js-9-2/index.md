@@ -171,134 +171,166 @@ Um alívio. De volta à busca.
 
 ---
 
-<!-- CONTINUE HERE -->
-
 ## Sorte grande
 
-> Apenas mais uma semana garantida de moradia.
+> "Tic. Toc. 7 dias restantes..."
 
-Esse foi pensamento bem dificil para uma pessoa que tem certo grau de ansiedade lidar.
+Esse é um pensamento bem difícil para uma pessoa com certo grau de ansiedade lidar, mas era algo me vinha na cabeça a cada momento que ousava esquecer.
 
-Já havia passado 2 dias da então visita esquisita que havia feito e até agora... nada de outra visita dar certo.
+Dois dias haviam se passado desde a visita na casa do Jesse Pinkman e até agora, nada de outra visita dar certo.
 
-Sempre que mandava mensagem, ou era ignorado, ou recebia uma mensagem falando que a vaga havia sido preenchida.
+Sempre que mandava mensagem para alguém, ou era ignorado, ou recebia uma resposta falando que a vaga já havia sido preenchida.
 
-> "Como preenchida? Você postou e eu fui o terceiro a mandar mensagem..."
+> "Como preenchida? Você acabou de postar e eu fui o terceiro a mandar mensagem..."
 
-Pois é. Na busca por moradias, não havia espaço para segundo ou terceiro a mandar mensagem.
+Assim como em uma competição esportiva, na busca por moradias, quem fica com a medalha ou troféu é só o primeiro lugar.
 
-E foi então, que ainda naquele dia, tocou uma notificação no Facebook que dizia:
+> "Sua hora vai chegar... força"
+
+E chegou.
+
+Ainda naquele dia, recebi uma notificação no Facebook que de um post dizia:
 
 > "3 vagas disponíveis..."
 
-O resto da mensagem, pouco importava. Eu respondi o post e mandei mensagem privada na hora pra menina falando:
+O resto da mensagem, pouco importava. Respondi a postagem na mesma hora e já mandei mensagem privada para a menina dizendo:
 
 > "Eu quero as 3."
 
-Foi uma decisão um pouco esquisita, mas eu rapidamentamente pensei que:
+Foi uma decisão a princípio pouco intuitiva, mas meu raciocínio foi:
 
-1. Se ela ofereceu 3 vagas, provavelmente quer se desfazer das 3 o mais rápido possível;
-2. Todo mundo na moradia estava na mesma situação que eu, ou seja, conseguir mais duas pessoas seria o menor dos problemas.
+1. Se ela ofereceu 3 vagas, provavelmente quer se desfazer de todas o mais rápido possível;
+2. Na residência estudantil, todos estavam estavam na mesma situação que eu, ou seja, conseguir mais duas pessoas seria o menor dos problemas.
 
 Dois minutos depois ela me responde:
 
 > "Oi, você quer mesmo as 3 vagas?"
 
-E eu só pude responder:
+Ainda com o chat aberto, para não perder um segundo se quer, respondi:
 
 > "Sim, pra mim e mais duas pessoas que estão morando comigo."
 
-No fim eu ainda não sabia quem, mas o fato é que haveriam mais duas pessoas sem dúvidas.
+No fim, eu ainda não sabia quem era essas duas outras pessoas. Mas uma coisa era fato: eu resolveria esse problema em 5 minutos.
 
 Ela me respondeu com um:
 
-> "O endereço é X. Você pode vir amanhã as 10 da manhã?"
+> "Beleza. O endereço é X, você pode vir amanhã as 10 da manhã?"
 
 É claro que poderia. Se fosse pra estar lá em 1 hora eu iria.
 
-Mandei mensagem confirmando e agora eu precisava convidar duas pessoas pra ir comigo.
+Visita confirmada, agora só faltavam as outras duas pessoas pra ir comigo.
 
-Desde o dia que havia chego na casa, dois caras que já se conheciam lá do Brasil e estavam fazendo "intercâmbio juntos" me ajudaram bastante. Foram eles que me passaram as dicas iniciais, afinal, eles chegaram 1 semana antes.
+Desde o dia que havia chego na casa, dois amigos que já se conheciam lá do Brasil e estavam fazendo "intercâmbio juntos" me ajudaram bastante. Foram eles que me passaram as dicas iniciais, pois, já estavam haviam chegado 1 semana antes de mim.
 
-E também, eram duas pessoas extratemante amigáveis e engraçadas.
+Fora, eram duas pessoas extremamente amigáveis e engraçadas. Passei horas trocando figurinhas com eles aqueles dias todos.
 
-Olhei para o restante da casa e não poderia ser outra escolha. Fiz o convite e os dois ficaram empolgadassos e concordaram no mesmo momento.
-
-Bom, agora era só manter a calma e ir.
-
-## Segunda visita
-
-No dia seguinte, acordamos bem cedo, tomamos café e partimos para a entrevista da casa.
+Com a tentativa fracassado para não ser enviesado, observei o restante da casa e logo concluí não poderia ser outra escolha. Fiz o convite e os dois ficaram muito empolgados e aceitaram na mesma hora.
 
 Ao olhar no mapa a localização, pude notar que não era tão longe do centro (onde ficam a maioria das escolas) e também era ao lado de um dos maiores parques da Irlanda, o Phoenix Park.
 
 <!-- TODO: Add phoenix park image -->
 
-Ainda me sentia confiante em que ia dar certo de pegar as 3 camas na casa.
+Enfim, agora era tudo uma questão de ir dormir, acordar e ir.
 
-Ao chegar no local, fomos recebidos pela anunciante das vagas.
+---
 
-Diferente do apartamento que havia ido na semana anterior, esse studio era bem... direto ao ponto.
+## Segunda visita
 
-Um quadrado de uns 15x15 onde ficavam duas beliches, uma mesa "de jantar", cozinha, alguns armários improvisados e uma porta que dava para um banheiro bem pequeno, mais ou menos assim:
+No dia seguinte, acordamos bem cedo, tomamos café e partimos para a entrevista da casa.
+
+Por algum motivo estranho, estava muito confiante em que ia dar certo. Você já sentiu isso?
+
+Chegando no local, fomos recebidos pela anunciante das vagas.
+
+No post, ela havia anexado algumas fotos do studio e já dava pra ver que era realmente bem pequeno, porém, ao vivo, parecia ainda menor.
+
+Pra tentar imaginar, imagina que você é dono de uma casa muito grande e todos os quartos dessa casa são grandes. Aquele local era exatamente isso. Os quartos eram grandes de mais para serem só um quarto e pequenos demais para ser uma casa. Mesmo assim, o dono do imóvel transformou cada cômodo da casa de 3 andares (9 no total) em pequenos studios individuais.
+
+Ao entrar no local, em poucos segundos eu pude escanear o studio inteiro onde haviam duas beliches, uma mesa "de jantar", cozinha, alguns armários improvisados e uma porta que dava para um banheiro bem pequeno, tudo no mesmo lugar. Mais ou menos como tentei mostrar nesse esboço:
 
 ![Esboço do studio](./assets/house.png)
 
-A primeira coisa que me veio a cabeça e eu tive que perguntar era:
+Parecia pequeno para 4 pessoas, mas eu me vi morando ali.
+
+Apesar de tudo, a primeira coisa que me veio a cabeça e eu tive que perguntar era:
 
 > "Por que você está saíndo da casa?"
 
-Ela me disse que ela e o namorado moravam ali e como dava pra ver, eles não tinham privacidade nenhuma, afinal, era o casal e mais dois homens.
+Ela me disse que havia conseguido um quarto de casal para ela e o namorado que moraram ali, afinal, eles tinham 0 privacidade e ela se incomodava de estar em um local tão pequeno só com homens.
 
 Então perguntei:
 
-> "E os outros dois?"
+> "E os outros dois moradores?"
 
-Ela respondeu que ao anunciar a saída dela e do namorado, um dos rapazes também anunciou que estava de mudança, e por isso as 3 vagas no mesmo tempo.
+Ela me contou que ao anunciar sua saída e do namorado, um dos rapazes também anunciou que estava de mudança, e esse era o motivo de ter 3 vagas ao mesmo tempo.
 
-Eu havia entendido a situação, mas alguns segundos depois eu pensei:
+Fazia sentido. Acho que eu estaria na mesma situação que ela, se estivesse morando com a minha namorada naquela situação.
+
+Mas no segundo seguinte eu liguei um ponto essencial:
 
 > Bom... se eram 4 pessoas e 3 estão saindo, isso significa que a gente vai morar com 1 pessoa totalmente aleatória.
 
-Esse pensamento perturbou todo sentimento bom que eu havia sentido até ali. O que me levou a perguntar:
+Esse pensamento perturbou todo sentimento bom que eu havia sentido até ali.
 
-> "E sobre esse cara que vai morar com a gente? O que nme diz?"
+Logo fui atrás de saber sobre esse integrante desconhecido:
 
-Então ela disse que era um brasileiro chefe em um restaurante que estava na Irlanda há alguns anos já e que quase não ficava em casa, chegando de madrugada apenas para dormir e saia logo ao acordar.
+> "E sobre esse cara que vai morar com a gente? O diz sobre ele?"
 
-Disse também que ele estava falando de uma possível mudança há tempos, mas nada concreto.
+Eu senti um ar de... descontentamento, daqueles que a gente tenta esconder mas não consegue.
 
-Isso me levantou uma bandeira vermelha na cabeça.
+Disse que era um brasileiro, chefe em um restaurante de comida japonesa e que estava na Irlanda há alguns anos já e que quase não ficava em casa, chegando de madrugada apenas para dormir e já saia ao acordar.
 
-> Como que eu vou ficar tranquilo morando com uma pessoa que eu não sei nem o rosto? E se ele for um mal carater? E se ele roubar meu dinheiro?
+Disse também que ele estava falando de uma possível mudança de casa há meses, mas isso nunca aconteceu.
 
-Quando a gente está nos grupos do Facebook da Irlanda, a gente lê muita história que olha... daria uma boa ficção.
+No mesmo momento, me apareceu uma bandeira vermelha na cabeça.
 
-O problema era que não dava tempo pra negar. Eu tinha só mais 3 dias de moradia garantia e os caras que foram comigo mais 2.
+> Como que eu vou ficar tranquilo morando com uma pessoa que eu não sei nem o rosto? E se ele for um mal caráter? E se ele roubar meu dinheiro? meu computador?
 
-Vesti a minha máscara de pessoa ultra bem comunicativa e sociável e conversei com ela, explicando que tinhamos interesse pra mudar o quanto antes.
+Quando fazemos parte dos grupos do Facebook da Irlanda, a gente lê muita história que olha... daria um bom roteiro de ficção.
 
-Ela pareceu empolgada. Disse que ia conversar com o namorado e outro rapaz e que me avisaria por mensagem.
+O problema era eu não tinha tempo pra ficar desconfiado, me restavam apenas 4 dias de residência e os caras que morariam comigo apenas mais 3.
+
+Chamei os caras no canto perguntando o que eles tinham achado do lugar e da situação e ambos pareciam estar ok e animados com o local.
+
+Ela na hora ficou empolgada e acho que consigo imaginar o motivo, afinal, assim como nós, ela também tinha um problema pra resolver.
+
+Disse que ia conversar com o namorado e outro rapaz e que me avisaria por mensagem.
+
+Apesar de ter ficado encucado com a questão do cara aleatório morando com a gente, eu também estava empolgado e ainda mais confiante.
+
+---
 
 No dia seguinte, acordo com uma mensagem:
 
-> "Hey, combinado. Me encontra no centro com o valor do deposíto dos 3 (750 euros, 250 pra cada cama) que eu te levo as chaves."
+<big-quote>"Hey. Conversamos e decidimos que vamos passar a vaga pra vocês. Me encontra no centro amanhã com o valor do deposíto dos 3 (750 euros, 250 pra cada cama) que eu te levo as chaves."</big-quote>
 
-Aqui vale uma observação. Caso você não saiba, um **deposíto** nada mais é do que um "dinheiro calção", um dinheiro extra no valor de 1 ou mais aluguéis que você da pra pessoa como garantia de que se você quebrar algo, for embora do país sem avisar, ela vai ter uma segurança para conseguir encontrar outra pessoa ou consertar de algo. Lembrando que você resgata esse dinheiro ao sair do imóvel.
+Aqui vale uma observação.
 
-Como na Irlanda, em muitas das vezes, fazemos negócios com os moradores, não com os donos das casas, você da o deposíto pra pessoa que está alugando o quarto/cama e ela vai embora. Quando você for sair da casa, a pessoa no qual está alugando te da o depósito, ficando em uma roda infinita.
+Caso você não saiba, um **deposíto**, nada mais é do que um "dinheiro calção", um dinheiro extra no valor de 1 ou mais aluguéis que você dá para a pessoa como garantia de que se você quebrar algo, for embora do país sem avisar, ela vai ter uma segurança para conseguir encontrar outra pessoa ou consertar de algo. Lembrando que você resgata esse dinheiro ao sair do imóvel.
 
-Enfim, conseguir o studio foi como tirar uma tonelada das costas. Já não aguentava aquela ideia de ter que pagar um hotel ou algo parecido.
+Como na Irlanda, em muitas das vezes, fazemos negócios com os moradores e não com os donos das casas, você entrega o valor do deposíto pra pessoa que está alugando o quarto/cama e ela vai embora. Quando você for sair da casa, a pessoa no qual você está passando sua vaga te paga o valor do deposito e você recupera o seu dinheiro, criando um ciclo sem fim.
 
-Conversei com os meus colegas de quarto e eles também vibraram.
+Enfim, conseguir o studio foi como tirar uma tonelada das costas. Já não aguentava mais a pressão do tempo e de cogitar que se não arrumasse nada, teria que pagar um hotel ou algo parecido.
 
-Como havia chance de abrir mais uma vaga, fui logo tentando pensar em mais uma pessoa ali do casa para (possivelmente) levar conosco.
+Como havia chance de abrir mais uma vaga, fui logo tentando pensar em mais uma pessoa ali do casa para (possivelmente) levar conosco. Mas... quem?
 
-Alguns dias depois da minha chegada na Ilha, a casa recebeu um cara bem peculiar. Artista, com um jeito simpático e um bigodão. Achei que dentre todas as opções, talvez fosse uma boa pessoa a convidar para dividir a casa.
+---
 
-Perguntei se ele tinha interesse, caso a vaga abrisse mesmo, ele disse que 100% garantido que sim, era só mandar mensagem.
+Alguns dias depois da minha chegada na Ilha, a casa recebeu um cara bem peculiar.
+
+Um metro de sessenta de altura, artista, um bigodão e com um jeito simpático.
+
+Dentre todas as opções, talvez fosse uma boa pessoa a convidar para dividir a casa.
+
+Perguntei se ele tinha interesse, caso a vaga abrisse mesmo e ele me respondeu:
+
+> "Ohh mano... claro que eu to dentro. Se der certo me manda mensagem eu vou no gás."
 
 Fui ao centro, com 750 euros em dinheiro vivo (pensa num cagaço de ser roubado ou perder) e peguei as chaves do ap. Agora finalmente poderíamos nos mudar e ficar com paz no coração.
+
+---
+
+<!-- CONTINUE HERE -->
 
 ### Mudança e primeira noite
 
