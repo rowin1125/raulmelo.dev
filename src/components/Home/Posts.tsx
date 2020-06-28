@@ -26,6 +26,17 @@ const PostsTitle = styled(motion.h2)`
 
 const PostList = styled.ul`
   list-style: none;
+  display: grid;
+  grid-gap: 20px;
+  grid-template-columns: repeat(auto-fill, minmax(400px, 1fr));
+  grid-auto-flow: dense;
+`;
+
+const PostItem = styled(motion.li)`
+  max-width: 400px;
+  &::nth-child(2n) {
+    margin-left: 20px;
+  }
 `;
 
 export const Posts: React.FC<PostsProps> = ({
@@ -71,7 +82,7 @@ export const Posts: React.FC<PostsProps> = ({
       >
         <AnimatePresence initial={false}>
           {posts.map(({ node }: PostEdge, index) => (
-            <motion.li
+            <PostItem
               key={node.id}
               custom={index}
               variants={itemsAnimationVariants}
@@ -86,7 +97,7 @@ export const Posts: React.FC<PostsProps> = ({
               }}
             >
               <PostCard postNode={node} />
-            </motion.li>
+            </PostItem>
           ))}
         </AnimatePresence>
       </InfiniteScroll>

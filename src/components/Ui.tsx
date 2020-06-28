@@ -31,12 +31,7 @@ export const Card = styled.div`
   box-shadow: ${({ theme }) =>
       theme.isDarkTheme ? 'transparent' : theme.color.shadowLight}
     0 1px 4px;
-  margin-bottom: 2.4rem;
   padding: var(--card-white-space);
-
-  ${media.greaterThan('medium')`
-    --card-white-space: 2.4rem;
-  `}
 `;
 
 export const Container = styled(motion.main)`

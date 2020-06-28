@@ -14,13 +14,13 @@ export const ImageContainer = styled.div`
 `;
 
 export const Image = styled(Img)`
-  max-height: 200px;
+  max-height: 150px;
   margin-bottom: 1em;
   border-top-left-radius: var(--card-border-radius);
   border-top-right-radius: var(--card-border-radius);
 
   ${media.greaterThan('medium')`
-    max-height: 270px;
+    max-height: 200px;
   `}
 `;
 
@@ -34,14 +34,14 @@ export const Body = styled.div`
 export const Title = styled.h3`
   margin: 0;
   line-height: 1.3;
-  font-size: 2rem;
+  font-size: 1.8rem;
   font-weight: 600;
   font-family: ${({ theme }) => theme.font.contentSans};
   color: ${({ theme }) => theme.color.font};
 
   ${media.greaterThan('medium')`
-    font-size: 3rem;
-    line-height: 1.12;
+    font-size: 2rem;
+    line-height: 1.5;
     letter-spacing: -0.022em;
   `}
 `;
@@ -58,12 +58,12 @@ export const DateAndTime = styled.span`
 export const Subtitle = styled.p`
   margin: 0;
   line-height: 1.3;
-  font-size: 1.8rem;
+  font-size: 1.6rem;
   font-family: ${({ theme }) => theme.font.contentSans};
   color: ${({ theme }) => theme.color.fontLight};
 
   ${media.greaterThan('medium')`
-    font-size: 2.2rem;
+    font-size: 1.8rem;
   `}
 `;
 
